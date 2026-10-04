@@ -1,0 +1,17 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Cache do Python e do pytest
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Variáveis de ambiente (podem ter a senha do Atlas)
+.env
+
+# Editores e sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
