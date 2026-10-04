@@ -3,9 +3,11 @@
 Trabalho de Big Data (FIAP). É o backend de um sistema de biblioteca que substitui a planilha de controle de empréstimos. Livros, alunos e empréstimos ficam guardados no MongoDB e a interação é feita por um menu no terminal.
 
 **Integrantes:**
-- Nome 1 (RM)
-- Nome 2 (RM)
-- Nome 3 (RM)
+- Fabrício Gutierrez Saavedra - RM97631
+- Márcio Gastaldi - RM98811
+- Arthur Bessa Pian - RM99215
+- Davi Desenzi - RM550849
+- João Victor - RM551410
 
 ## Como rodar
 
